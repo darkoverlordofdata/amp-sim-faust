@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Dark Fantasy
+Exec=/home/darko/Documents/GitHub/amp-sim-faust/src/amp_sim
+Icon=/home/darko/Documents/GitHub/amp-sim-faust/DarkFantasy.png
+Categories=Development
