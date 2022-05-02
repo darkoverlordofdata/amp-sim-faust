@@ -7,3 +7,7 @@ Effects based on Faust tutorials
 
 faust2jack src/amp_sim.dsp
 src/amp_sim
+
+
+faust2alqt src/guitar/phaser.dsp
+src/guitar/phaser
